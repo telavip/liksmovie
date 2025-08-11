@@ -1,0 +1,15 @@
+const specialLinks = {
+  "name": "A \u00daltima Miss\u00e3o",
+  "image": "https:\/\/image.tmdb.org\/t\/p\/original\/y7tjLYcq2ZGy2DNG0ODhGX9Tm60.jpg",
+  "mx": { "1106289": "\/play\/mx.php?src=gjojn0ercwddmg4" },
+  "fm": { "#1106289": "" },
+  "dt": { "#1106289": "" },
+  "st": { "#1106289": "" },
+  "rd": { "#1106289": "" },
+  "mx_leg": { "#1106289": "" },
+  "fm_leg": { "#1106289": "" },
+  "dt_leg": { "#1106289": "" },
+  "st_leg": { "#1106289": "" },
+  "rd_leg": { "#1106289": "" },
+  "me": { "#1106289": "" },
+};
