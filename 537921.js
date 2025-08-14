@@ -1,0 +1,15 @@
+const specialLinks = {
+  "name": "O Dia da Castra\u00e7\u00e3o",
+  "image": "https:\/\/image.tmdb.org\/t\/p\/original\/7uzhHIEOJ3AliYICXLzTpQ4Rkrn.jpg",
+  "mx": { "537921": "\/play\/mx.php?src=dkekneepuwq37" },
+  "fm": { "537921": "\/play\/fm.php?src=rfz6td71uc8g" },
+  "dt": { "#537921": "" },
+  "st": { "#537921": "" },
+  "rd": { "#537921": "" },
+  "mx_leg": { "#537921": "" },
+  "fm_leg": { "#537921": "" },
+  "dt_leg": { "#537921": "" },
+  "st_leg": { "#537921": "" },
+  "rd_leg": { "#537921": "" },
+  "me": { "#537921": "" },
+};
